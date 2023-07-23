@@ -23,10 +23,18 @@ export default {
 			type: String,
 			default: "gold-cta",
 		},
+		size: {
+			type: String,
+			default: "md",
+		},
 	},
 	computed: {
 		class() {
-			return "aa";
+			let customClass = "";
+			if (this.variant === "gold-cta") {
+				customClass = `btn-gold-cta btn-${this.size} text-custom-gold border-custom-gold rounded-0`;
+			}
+			return customClass;
 		},
 	},
 };
