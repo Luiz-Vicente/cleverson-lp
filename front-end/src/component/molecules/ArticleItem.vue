@@ -48,6 +48,6 @@ export default {
 
 <style lang="scss" scoped>
 img {
-	max-height: 250px;
+	height: 185px !important;
 }
 </style>

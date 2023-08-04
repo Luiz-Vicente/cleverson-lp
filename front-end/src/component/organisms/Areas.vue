@@ -8,42 +8,42 @@
 
 			<div class="d-flex flex-column flex-md-row flex-wrap">
 				<CardArea
-					title="abacate"
+					title="area"
 					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
 					icon="fa fa-solid fa-user"
 				/>
 				<CardArea
-					title="abacate"
+					title="area"
 					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
 					icon="fa fa-solid fa-user"
 				/>
 				<CardArea
-					title="abacate"
+					title="area"
 					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
 					icon="fa fa-solid fa-user"
 				/>
 				<CardArea
-					title="abacate"
+					title="area"
 					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
 					icon="fa fa-solid fa-user"
 				/>
 				<CardArea
-					title="abacate"
+					title="area"
 					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
 					icon="fa fa-solid fa-user"
 				/>
 				<CardArea
-					title="abacate"
+					title="area"
 					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
 					icon="fa fa-solid fa-user"
 				/>
 				<CardArea
-					title="abacate"
+					title="area"
 					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
 					icon="fa fa-solid fa-user"
 				/>
 				<CardArea
-					title="abacate"
+					title="area"
 					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
 					icon="fa fa-solid fa-user"
 				/>

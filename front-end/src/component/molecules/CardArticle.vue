@@ -7,7 +7,7 @@
 				alt=""
 			/>
 			<div class="p-3">
-				<p class="text-white fs-5 fw-bold">{{ title }}</p>
+				<p class="text-white fs-5 fw-bold">{{ truncate(title, 35) }}</p>
 				<Button
 					class="w-100"
 					:href="href"
@@ -35,13 +35,22 @@ export default {
 			type: String,
 			required: true,
 		},
-    img: {
+		img: {
 			type: String,
 			required: true,
 		},
-    href: {
+		href: {
 			type: String,
 			required: true,
+		},
+	},
+	methods: {
+		truncate(text, limit) {
+			if (text.length <= limit) {
+				return text;
+			} else {
+				return text.slice(0, limit) + "...";
+			}
 		},
 	},
 };

@@ -7,7 +7,7 @@
 			v-for="(article, index) in displayedArticles"
 			:key="index"
 			:title="article.title"
-			:description="article.resume"
+			:description="truncate(article.resume, 300)"
 			:articleId="article.id"
 			:img="article.thumb"
 		/>

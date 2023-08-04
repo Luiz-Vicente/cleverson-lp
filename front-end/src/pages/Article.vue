@@ -7,7 +7,7 @@
 		<div class="mt-3 border-gray-500">
 			<h2
 				v-if="article.title"
-				class="text-center text-black"
+				class="text-center text-black fw-bold"
 			>
 				{{ article.title }}
 			</h2>
