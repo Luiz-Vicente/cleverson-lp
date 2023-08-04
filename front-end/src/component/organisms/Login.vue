@@ -5,7 +5,7 @@
 			<label
 				class="form-label text-custom-white fw-semibold"
 				for="Nome"
-				>Nome:</label
+				>E-mail:</label
 			>
 			<input
 				required
