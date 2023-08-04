@@ -1,9 +1,11 @@
 <template>
 	<component
-		:is="href ? 'a' : 'p'"
-		class="btn"
+		:is="href ? 'a' : 'button'"
+		class="btn fw-semibold"
 		:class="class"
+		:href="href"
 	>
+		<i :if="icon" :class="icon" class="fw-semibold"></i>
 		{{ text }}
 	</component>
 </template>
@@ -27,12 +29,20 @@ export default {
 			type: String,
 			default: "md",
 		},
+		icon: {
+			type: String,
+			default: null,
+		},
 	},
 	computed: {
 		class() {
 			let customClass = "";
 			if (this.variant === "gold-cta") {
 				customClass = `btn-gold-cta btn-${this.size} text-custom-gold border-custom-gold rounded-0`;
+			}
+
+			if (this.variant === "white-cta") {
+				customClass = `btn-white-cta btn-${this.size} text-custom-gold bg-white rounded-4`;
 			}
 			return customClass;
 		},

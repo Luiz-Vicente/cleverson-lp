@@ -16,7 +16,7 @@
 </template>
 
 <script>
-import Button from "../atom/Button.vue";
+import Button from "Atom/Button.vue";
 
 export default {
 	components: {

@@ -1,9 +1,12 @@
 <template>
-	<nav class="navbar navbar-expand-lg bg-custom-blue" data-bs-theme="dark">
+	<nav
+		class="navbar navbar-expand-lg bg-custom-blue"
+		data-bs-theme="dark"
+	>
 		<div class="container">
 			<a
 				class="navbar-brand"
-				href="#"
+				href="/#"
 				><img
 					class="col-4"
 					src="/logo-white.png"
@@ -29,35 +32,35 @@
 						<a
 							class="nav-link text-white active"
 							aria-current="page"
-							href="#"
+							href="/#about"
 							>Sobre</a
 						>
 					</li>
 					<li class="nav-item">
 						<a
 							class="nav-link text-white"
-							href="#"
+							href="/#areas"
 							>Áreas</a
 						>
 					</li>
 					<li class="nav-item">
 						<a
 							class="nav-link text-white"
-							href="#"
+							href="/#laws"
 							>Equipe</a
 						>
 					</li>
 					<li class="nav-item">
 						<a
 							class="nav-link text-white"
-							href="#"
+							href="/blog"
 							>Blog</a
 						>
 					</li>
 					<li class="nav-item">
 						<a
 							class="nav-link text-white"
-							href="#"
+							href="#footer"
 							>Localização</a
 						>
 					</li>
