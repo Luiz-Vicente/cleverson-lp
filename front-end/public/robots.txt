@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cleverson-marques.com.br/sitemap.xml
+Sitemap: https://cmarques.adv.br/sitemap.xml
