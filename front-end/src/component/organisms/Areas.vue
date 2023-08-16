@@ -1,5 +1,8 @@
 <template>
-	<section id="areas" class="bg-custom-blue py-5">
+	<section
+		id="areas"
+		class="bg-custom-blue py-5"
+	>
 		<div class="container">
 			<div class="d-flex align-items-end mb-4">
 				<i class="fa-solid fa-gavel text-custom-gold bg-white p-2 fs-4 rounded-4 me-2"></i>
@@ -8,44 +11,14 @@
 
 			<div class="d-flex flex-column flex-md-row flex-wrap">
 				<CardArea
-					title="area"
-					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
-					icon="fa fa-solid fa-user"
+					title="Direito do Trabalho"
+					description="Acreditamos que um ambiente de trabalho justo e equitativo é essencial para o sucesso mútuo de ambas as partes."
+					icon="fa fa-solid fa-briefcase"
 				/>
 				<CardArea
-					title="area"
-					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
-					icon="fa fa-solid fa-user"
-				/>
-				<CardArea
-					title="area"
-					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
-					icon="fa fa-solid fa-user"
-				/>
-				<CardArea
-					title="area"
-					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
-					icon="fa fa-solid fa-user"
-				/>
-				<CardArea
-					title="area"
-					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
-					icon="fa fa-solid fa-user"
-				/>
-				<CardArea
-					title="area"
-					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
-					icon="fa fa-solid fa-user"
-				/>
-				<CardArea
-					title="area"
-					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
-					icon="fa fa-solid fa-user"
-				/>
-				<CardArea
-					title="area"
-					description="Nulla et sint cillum do cillum dolor sint anim mollit voluptate."
-					icon="fa fa-solid fa-user"
+					title="Direito Previdenciário"
+					description=""
+					icon="fa fa-solid fa-hand-holding-dollar"
 				/>
 			</div>
 		</div>

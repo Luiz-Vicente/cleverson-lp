@@ -28,7 +28,7 @@
 						/>
 						<div>
 							<a
-								href="https://"
+								href="https://wa.me/+5541999441503"
 								class="text-decoration-none"
 								><i class="fa-brands fa-square-whatsapp text-white fs-1"></i
 							></a>
@@ -38,7 +38,7 @@
 								><i class="fa-brands fa-square-facebook text-white fs-1 ms-3"></i
 							></a>
 							<a
-								href="https://"
+								href="https://www.instagram.com/cmarques_advogados_/"
 								class="text-decoration-none"
 								><i class="fa-brands fa-instagram text-white fs-1 ms-3"></i
 							></a>

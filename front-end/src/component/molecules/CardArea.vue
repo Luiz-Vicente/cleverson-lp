@@ -8,7 +8,7 @@
 			<p class="text-white fs-5 fw-bold">{{ title }}</p>
 			<p class="text-white">{{ description }}</p>
 			<Button
-				href="https://google.com"
+				href="https://wa.me/+5541999441503"
 				variant="white-cta"
 				icon="fa-brands fa-whatsapp"
 			/>

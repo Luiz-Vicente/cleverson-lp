@@ -3,7 +3,7 @@
 		<div class="d-flex flex-column justify-content-center align-items-start col col-md-6">
 			<h1 class="fw-bold text-custom-blue">Aqui seu caso está em boas mãos!</h1>
 			<p>nosso escritório atende mais de 10 áreas e conta com um time de 8 advogados especialistas!</p>
-			<Button size="lg" href="https://google.com" />
+			<Button size="lg" href="https://wa.me/+5541999441503" />
 		</div>
 		<div class="col col-md-6 d-flex justify-content-end mt-3 mt-md-0">
 			<img
