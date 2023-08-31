@@ -1,5 +1,9 @@
 <template>
 	<div class="d-flex flex-column align-items-center justify-content-center py-5">
+		<notifications
+			:max="2"
+			class="mt-4 p-5 me-3 w-25"
+		/>
 		<h2 class="fs-2 text-custom-white card-title text-center fw-bold mb-3">Login</h2>
 		<div class="col-md-4">
 			<label

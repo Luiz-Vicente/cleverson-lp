@@ -18,8 +18,9 @@
 				</div>
 				<div class="d-flex flex-column p-0 ps-md-5 mt-3 mt-md-0 col col-md-4">
 					<p class="text-white">
-						A Cleverson advogados associados é um escritório fundado em 2023 que reúne profissionais especialistas de
-						diversas áreas do direito.
+						A C. Marques Advogados Associados é um escritório que reúne mais de 12 anos de experiência em diversas áreas
+						do direito cível e empresarial. Temos compromisso com a verdade e a justiça desde o momento em que abrimos
+						nossas portas.
 					</p>
 					<div class="d-flex align-items-center justify-content-between">
 						<img
@@ -31,11 +32,6 @@
 								href="https://wa.me/+5541999441503"
 								class="text-decoration-none"
 								><i class="fa-brands fa-square-whatsapp text-white fs-1"></i
-							></a>
-							<a
-								href="https://"
-								class="text-decoration-none"
-								><i class="fa-brands fa-square-facebook text-white fs-1 ms-3"></i
 							></a>
 							<a
 								href="https://www.instagram.com/cmarques_advogados_/"

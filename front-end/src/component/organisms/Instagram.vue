@@ -1,5 +1,6 @@
 <template>
-	<section class="container">
+	<!-- remove margin when enabling lawyers section -->
+	<section class="container mt-5">
 		<div class="d-flex align-items-end mb-4">
 			<i class="fa-brands fa-instagram text-custom-gold bg-custom-blue p-2 fs-4 rounded-4 me-2"></i>
 			<h2 class="text-custom-blue m-0">Instagram</h2>

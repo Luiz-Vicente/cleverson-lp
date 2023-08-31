@@ -1,5 +1,9 @@
 <template>
 	<section class="d-flex flex-column align-items-center py-5">
+		<notifications
+			:max="2"
+			class="mt-4 p-5 me-3 w-25"
+		/>
 		<div class="text-end container">
 			<button
 				type="button"
